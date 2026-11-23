@@ -1,0 +1,7 @@
+--extra-index-url https://download.pytorch.org/whl/cu132
+pyannote-audio==4.0.7
+torch==2.15.0+cu132
+torchaudio==2.11.1+cu132
+torchcodec==0.17.0
+python-dotenv==1.2.4
+yt-dlp
